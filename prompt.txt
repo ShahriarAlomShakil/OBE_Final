@@ -1,0 +1,9 @@
+This is an outcome based education project.
+
+database : root
+user: StrongPasswordHere
+password: StrongPasswordHere
+database name: obe_system
+
+
+Update development plan and commit when task completed.
